@@ -1,4 +1,4 @@
-# React Front-End Auth practice
+# React Front-End Auth Practice
 
 - ##### This is an exercise I created for the [WBS Coding School](https://www.wbscodingschool.com/) to make web dev students practice their **React + JWT front-end authentication** skills.
 
