@@ -2,6 +2,8 @@
 
 - ##### This is an exercise I created for the [WBS Coding School](https://www.wbscodingschool.com/) to make web dev students practice their **React + JWT front-end authentication** skills.
 
+![Front-End Auth React Flow](https://raw.githubusercontent.com/MyElectricSheep/React-Front-End-Auth-Practice/main/auth-intro-screenshot.png)
+
 You can send a POST request to [this API endpoint](https://wbs-simple-auth.herokuapp.com)
 
 Send the following JSON along with your request:
