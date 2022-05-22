@@ -1,6 +1,8 @@
 # This is a repo to practice Front-End authentication
 
-You can send a POST request to https://wbs-simple-auth.herokuapp.com 
+- ##### This is an exercise I created for the [WBS Coding School](https://www.wbscodingschool.com/) to make web dev students practice their **React + JWT authentication** skills.
+
+You can send a POST request to [this API endpoint[(https://wbs-simple-auth.herokuapp.com)
 
 Send the following JSON along with your request:
 
@@ -11,11 +13,12 @@ Send the following JSON along with your request:
 }
 ```
 
-To get a valid JWT sent back by the API
+To get a valid JWT sent back by the API.
 
-Then you can query with a GET request https://wbs-simple-auth.herokuapp.com/auth/me
+Then you can query with a GET request [this other endpoint](https://wbs-simple-auth.herokuapp.com/auth/me)
 
-If the token is valid, you'll get some information about the user sent back
+If the token is valid, you'll get some information about the user sent back. 
+If the token is invalid you'll get a 401 error.  
 
-Hint: the token will be sent back in the HTTP headers as `x-authorization-token`
-Hint2: send your GET request to the API with the token in the headers as well `Bearer <your-JWT>` to get some data back
+- Hint: the token will be sent back in the HTTP headers as `x-authorization-token`
+- Hint2: send your GET request to the API with the token in the headers as well `Bearer <your-JWT>` to get some data back
