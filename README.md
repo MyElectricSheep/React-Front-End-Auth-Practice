@@ -1,6 +1,6 @@
-# This is a repo to practice Front-End authentication
+# React Front-End Auth practice
 
-- ##### This is an exercise I created for the [WBS Coding School](https://www.wbscodingschool.com/) to make web dev students practice their **React + JWT authentication** skills.
+- ##### This is an exercise I created for the [WBS Coding School](https://www.wbscodingschool.com/) to make web dev students practice their **React + JWT front-end authentication** skills.
 
 You can send a POST request to [this API endpoint](https://wbs-simple-auth.herokuapp.com)
 
