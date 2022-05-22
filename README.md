@@ -2,7 +2,7 @@
 
 - ##### This is an exercise I created for the [WBS Coding School](https://www.wbscodingschool.com/) to make web dev students practice their **React + JWT authentication** skills.
 
-You can send a POST request to [this API endpoint[(https://wbs-simple-auth.herokuapp.com)
+You can send a POST request to [this API endpoint](https://wbs-simple-auth.herokuapp.com)
 
 Send the following JSON along with your request:
 
